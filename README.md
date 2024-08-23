@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! I'm Tojo Ny Aina let me take you through my repos</h2>
+<h2 align="center">Hi 👋! I'm Tojo Ny Aina, let me take you through my repos</h2>
 
 ###
 
