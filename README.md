@@ -81,6 +81,6 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/ItsTojoNyAina/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<seu ItsTojoNyAina></seu ItsTojoNyAina>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
