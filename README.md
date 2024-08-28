@@ -79,10 +79,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ItsTojoNyAina/ItsTojoNyAina/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
